@@ -11,3 +11,4 @@ def dice_roll(rollnumber, sidenumber):
     print(output)
 
     return output
+
